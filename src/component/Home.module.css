@@ -1,0 +1,11 @@
+.Card {
+    max-width: 500px;
+    margin: 0 auto;
+    background: rgba(17, 16, 17, 0.5); /* Background with reduced opacity */
+    border: 2px solid rgb(6, 6, 6);
+    border-radius: 50px; 
+    margin-bottom: 10px;
+    opacity: 1;
+    height: 300px;
+   
+  }
