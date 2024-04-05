@@ -9,7 +9,7 @@ const Home=()=>{
  
  return <div>
 
-<Card className={Style.Card} style={{ background: 'white',borderRadius:'25px' }}>
+<Card className={Style.Card} style={{ background: 'white',borderRadius:'25px'}}>
           <h1>Blog Posts</h1>       
           <p>Following the recent border ambush, the brutal
              reality of combat has once again emerged.

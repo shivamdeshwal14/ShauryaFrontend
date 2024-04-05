@@ -1,12 +1,16 @@
 
 import './App.css';
 import Home from './component/Home';
+import Navbar from './component/Navbar';
 const App=()=>{
 
 
   return <div>
+    <div style={{position:'sticky', zIndex:'1', marginBottom:'5px' }}>
+    <Navbar/>
+    </div>
+  
 
-<h1> Shaurya Navbar</h1>
 <Home/>
   </div>
   
